@@ -114,7 +114,7 @@
     "electron-notifications": "1.0.0",
     "electron-updater": "4.0.6",
     "get-port": "^3.2.0",
-    "highlight.js": "9.15.8",
+    "highlight.js": "10.4.1",
     "highlightjs-line-numbers.js": "^2.7.0",
     "minimist": "^1.2.0",
     "moment": "2.24.0",
